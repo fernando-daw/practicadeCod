@@ -4,7 +4,7 @@
     ciudad, país, numero de estrellas, descripción del hotel,
     número habitaciones individuales, habitaciones dobles,
     habitaciones triples, suites.
-    Probar si es un documento bien formado.
+    Probar si es un documento bien formado. Sigo haciendo cambios
 -->
 <!DOCTYPE hoteles [
   <!ELEMENT hoteles (hotel)>
